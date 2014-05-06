@@ -16,11 +16,12 @@ FizzBuzzWhizz
  
 输入
 3,5,7
+
 输出（片段）
 
-  1
-  2
-  Fizz
+1
+2
+Fizz
 4
 Buzz
 Fizz
